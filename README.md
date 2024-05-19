@@ -26,8 +26,7 @@ git clone https://github.com/aryan87360/iOS-Task-199-Developments
 - Click on the 'Run' icon to start the application in the selected environment.
 
 
-**
-Notes App Documentation**
+Note App Documentation
 
 Overview
 
